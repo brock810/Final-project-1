@@ -1,0 +1,15 @@
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.csproj.AssemblyReference.cache
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.AssemblyInfoInputs.cache
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.AssemblyInfo.cs
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.csproj.CoreCompileInputs.cache
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\bin\Debug\net6.0\TestDrivePractice.exe
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\bin\Debug\net6.0\TestDrivePractice.deps.json
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\bin\Debug\net6.0\TestDrivePractice.runtimeconfig.json
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\bin\Debug\net6.0\TestDrivePractice.dll
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\bin\Debug\net6.0\TestDrivePractice.pdb
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.dll
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\refint\TestDrivePractice.dll
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.pdb
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\TestDrivePractice.genruntimeconfig.cache
+C:\Users\Brock\source\repos\TestDrivePractice\TestDrivePractice\obj\Debug\net6.0\ref\TestDrivePractice.dll
